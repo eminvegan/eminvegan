@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋, I am Emin from Germany 🇩🇪</h1>
+<h1 align="left">Hi there 👋, I am Emin from Europe 🇪🇺 Germany 🇩🇪</h1>
 <h3 align="left">I am a „Full Stack Online Developer“ and I ❤️ Open Source.</h3>
 
 
